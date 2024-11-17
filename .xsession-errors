@@ -1,0 +1,76 @@
+Xsession: X session started for kali at sáb 16 nov 2024 18:33:53 CST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+localuser:kali being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_MX.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+VirtualBox Additions disabled, not in a Virtual Machine
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 18:33:54.824: SSH authentication agent is already running
+gpg-agent: ya hay un agente gpg ejecutándose - no se inicia otro
+No se está ejecutando el gestor de energía de Xfce
+Cannot register authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject
+vmware-user: could not open /proc/fs/vmblock/dev
+Gestor de energía de Xfce: Ya se está ejecutando otro gestor de energía
+Falla: No existe tal entidad
+Error creating proxy: Error al llamar StartSereviceByName para org.gtk.vfs.UDisks2VolumeMonitor: Se alcanzó el tiempo de expiración (g-io-error-quark, 24)
+
+(wrapper-2.0:1983): Gtk-WARNING **: 18:35:56.531: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1983): xfce4-notification-plugin-WARNING **: 18:35:58.034: Unable to check for unread messages: Se alcanzó el tiempo de expiración
+
+(wrapper-2.0:1981): pulseaudio-plugin-WARNING **: 18:36:17.951: Disconnected from the PulseAudio server. Attempting to reconnect in 5 seconds...
+
+(wrapper-2.0:1984): Gtk-WARNING **: 18:36:19.061: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+nm-applet-Message: 18:36:25.601: No keyring secrets found for INFINITUM1680_2.4/802-11-wireless-security; asking user.
+
+(nm-applet:2284): GVFS-RemoteVolumeMonitor-WARNING **: 18:36:25.672: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+blueman-applet 18.36.26 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 18.36.26 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:07:55.532: Unable to replace properties on 0: Error getting properties for ID
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:07:55.628: Unable to replace properties on 0: Error getting properties for ID
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:07:59.437: Unable to replace properties on 0: Error getting properties for ID
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:07:59.546: Unable to replace properties on 0: Error getting properties for ID
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:07:59.637: Unable to replace properties on 0: Error getting properties for ID
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:15:00.605: Unable to replace properties on 0: Error getting properties for ID
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:15:00.806: Unable to replace properties on 0: Error getting properties for ID
+
+(wrapper-2.0:1977): LIBDBUSMENU-GLIB-WARNING **: 19:15:14.928: Unable to replace properties on 0: Error getting properties for ID
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 24177, resource id: 8922408, major code: 40 (TranslateCoords), minor code: 0
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP

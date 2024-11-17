@@ -1,0 +1,13 @@
+9
+^partitionKey=%28https%2Cwww-ssh-com.translate.goog%29
+https://www.googletagmanager.com/static/service_worker
+https://www.googletagmanager.com/static/service_worker/4al0/sw.js?origin=https%3A%2F%2Fwww-ssh-com.translate.goog
+false
+{eb04d691-420e-4c3e-a897-d9978caca5eb}
+1
+1731207354881173
+1731207354889369
+1731207125742891
+0
+true
+#
